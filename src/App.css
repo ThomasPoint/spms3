@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
+
+.table-scroll {
+  overflow-y:scroll;
+  height:180px;
+  display:block
+}
